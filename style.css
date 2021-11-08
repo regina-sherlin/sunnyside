@@ -1,0 +1,261 @@
+@import url('https://fonts.googleapis.com/css2?family=Barlow:wght@600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Fraunces:wght@700;900&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    /* font-family: 'Fraunces', serif; */
+    /* font-family: 'Barlow', sans-serif; */
+    font-weight: 300;
+}
+
+.container1{
+    background-image: url('./images/desktop/image-header.jpg');
+    background-size: cover;
+    height: 800px;
+    /* font-family: 'Poppins',sans-serif; */
+}
+
+.logo{
+    padding-left: 4em;
+    padding-top: 3em;
+    width: fit-content;
+}
+.ulist{
+    display: flex;
+    float: right;
+    list-style-type: none;
+    margin-bottom: 2em ;
+    margin-right: 4em;
+}
+
+.nav-item{
+    margin-right: 40px;
+    color: #fff;
+    font-family: 'Barlow', sans-serif;
+}
+
+.contact-btn{
+    position: relative;
+    bottom:15px;
+    padding: 12px;
+    text-transform: uppercase;
+    font-family: 'Fraunces', serif;
+    border-radius: 20px;
+    background-color: #fff;
+}
+
+.hero-caption{
+    font-family: 'Fraunces', serif;
+    font-weight: 900;
+    font-size: 2em;;
+    text-transform: uppercase;
+    margin-left: 400px;
+    
+    margin-top: 80px;
+    letter-spacing: 1.5px;
+    color: #fff;
+}
+
+.arrow{
+    margin-left: 20rem;
+    margin-top: 10rem;
+}
+
+.container2{
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    height: 400px;
+    overflow: hidden;
+}
+.left2{
+    width: 50%;
+    height: 100%;
+}
+
+.right2{
+    width: 50%;
+    height: 100%;
+}
+.egg{
+    width: 100%;
+}
+
+.content{
+    padding: 8em;
+
+}
+.content h1{
+    font-family: 'Fraunces', serif;
+}
+
+.content p{
+    margin-top: 40px;
+    font-family: 'Barlow', sans-serif;
+    line-height: 1.75em;
+    font-weight: 300;
+    color:grey;
+}
+
+.container3{
+    width: 100%;
+    height: 400px;
+    display: flex;
+    flex-direction: row;
+    overflow: hidden;
+}
+
+.left3{
+    width: 50%;
+    height: 100%;
+}
+.right3{
+    width: 50%;
+    height: 100%;
+}
+
+.content3{
+    padding: 8em;
+
+}
+.content3 h1{
+    font-family: 'Fraunces', serif;
+}
+
+.content3 p{
+    margin-top: 40px;
+    font-family: 'Barlow', sans-serif;
+    line-height: 1.75em;
+    font-weight: 300;
+    color:grey;
+}
+.container4{
+    width: 100%;
+    height: 400px;
+    display: flex;
+    flex-direction: row;
+    overflow: hidden;
+}
+
+.left4{
+    width: 50%;
+    height: 100%;
+}
+.right4{
+    width: 50%;
+    height: 100%;
+}
+.content4{
+    padding: 8em;
+
+}
+
+.content4 h1{
+    font-family: 'Fraunces', serif;
+}
+
+.content4 p{
+    margin-top: 40px;
+    font-family: 'Barlow', sans-serif;
+    line-height: 1.75em;
+    font-weight: 300;
+    color:grey;
+}
+
+.left2-btn{
+    margin-top: 2em;
+}
+
+.testimonials{
+    height: 500px;
+    /* background-color: grey; */
+    margin-top: 90px ;
+}
+
+.testimonials h1{
+    
+   text-align: center;
+   margin-bottom: 50px;
+}
+
+.holder{
+    width: 100%;
+    height: 400px;
+    display: flex;
+    flex-direction: row;
+}
+.one, .two, .three{
+    width: 33%;
+    height: 100%;
+}
+
+
+.pic{
+    border-radius: 50%;
+    margin-left: 11em;
+    margin-top: 2rem;
+}
+
+blockquote{
+    padding: 4em;
+    font-family: 'Ariel', sans-serif;
+    line-height: 1.5;
+    font-weight: 300;
+
+}
+.name{
+    font-family: 'Fraunces',sans-serif;
+    text-transform: uppercase;
+    text-align: center;
+}
+.designation{
+    font-family: 'Barlow',sans-serif;
+    text-align: center;
+    color: grey;
+    font-weight: 300;
+    margin-top: 1em;
+}
+.gap-container{
+    height: 100px;
+    width: 100%;
+    margin-bottom: 50px;
+    /* background-color: red; */
+}
+.last-container{
+    margin-top: 40px;
+    display: flex;
+    height: 300px;
+    width: 100%;
+    /* background-color: red; */
+}
+.a,.b,.c,.d{
+    width: 25%;
+    height: 100%;
+}
+
+.snippets{
+    width: 100%;
+    
+}
+
+.final{
+    height: 500px;
+    width: 100%;
+    background-color: hsl(168, 34%, 41%);
+}
+.footer-logo{
+    text-align: center;
+    margin-top: 20em;
+    margin-left: 43em;
+}
+
+.icon-set{
+    margin-left: 42em;
+    margin-top: 2.5em;
+    
+}
+
+.icon{
+    margin-right: 20px;
+}
