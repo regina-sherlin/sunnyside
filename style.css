@@ -259,3 +259,11 @@ blockquote{
 .icon{
     margin-right: 20px;
 }
+
+.final small{
+    text-align:center;
+}
+
+.final a{
+    text-decoration: none;
+}
