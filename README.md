@@ -4,7 +4,7 @@ Website URL 🚀 -  https://regina-sherlin.github.io/sunnyside/
 
 
 # What is this project? 
-  ▪️ This website is built for a fictional website as a design challenge from FrontEnd Mentor- https://www.frontendmentor.io/challenges/sunnyside-agency-landing-page-7yVs3B6ef
+  ▪️ This website is built for a fictional website as a design challenge from - [FrontEnd Mentor](https://www.frontendmentor.io/challenges/sunnyside-agency-landing-page-7yVs3B6ef)
   ▪️ My task was to build the website as close to the design as possible. The designs were shared as figma assets and I had to translate it into a functioning website.
   
 # What is it built with? 🏗️
