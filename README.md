@@ -17,5 +17,5 @@ Website URL 🚀 -  [Click here](https://regina-sherlin.github.io/sunnyside/)
   *▪️ I think I am more comfortable with building a basic format and structure of a landing page.
  
  # Things to add in the future ⌚
- *▪️ I would like to make it responsive for mobile device screens. This was one of my old projects. 
+ * I would like to make it responsive for mobile device screens. This was one of my old projects. 
  I tried to give it a decent shape for desktop screens. I need to do the same for mobile screens as well.
